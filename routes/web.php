@@ -18,7 +18,7 @@ Route::get('/', function () {
 });
 
 Route::get('/admin' , function (){
-//    $form = \App\Models\User::form('test 1');
+    $form = \App\Models\User::form('test 1');
 //    return $form;
-    return view('admin');
+    return view('admin' , compact('form'));
 });
