@@ -1,1 +1,2 @@
-require('./bootstrap');
+require('./livewire-sortable.js');
+require('./alpinejs.js');

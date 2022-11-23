@@ -7,5 +7,6 @@ module.exports = {
   theme: {
     extend: {},
   },
+    prefix: "YLDF-",
   plugins: [],
 }
