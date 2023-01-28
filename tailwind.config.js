@@ -1,8 +1,8 @@
 /** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-      "./package/yeganehha/laravel-dynamic-forms/Resources/**/*.blade.php",
-      "./package/yeganehha/laravel-dynamic-forms/Resources/**/*.js",
+      "./package/yeganehha/laravel-dynamic-form/Resources/**/*.blade.php",
+      "./package/yeganehha/laravel-dynamic-form/Resources/**/*.js",
   ],
   theme: {
     extend: {},
